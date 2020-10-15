@@ -32,7 +32,8 @@ Esta é uma breve descrição do que foi desenvolvido/praticado no dia.
 - Armazenando imagens ao banco de dados;
 - Tratamento de erros;
 - Validação de dados com Yup
-- [ ] Dia 3:
+- [X] **Dia 3**:
+- [Continuação do front-end](https://github.com/saleszera/happy-web);
 - [ ] Dia 4:
 - [ ] Dia 5:
 
