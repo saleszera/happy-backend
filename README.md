@@ -34,7 +34,8 @@ Esta é uma breve descrição do que foi desenvolvido/praticado no dia.
 - Validação de dados com Yup
 - [X] **Dia 3**:
 - [Continuação do front-end](https://github.com/saleszera/happy-web);
-- [ ] Dia 4:
+- [X] **Dia 4**:
+- [Inicio mobile](https://github.com/saleszera/happy-mobile)
 - [ ] Dia 5:
 
 ## 💥️ Bonus
