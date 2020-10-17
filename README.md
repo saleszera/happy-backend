@@ -15,6 +15,7 @@ Este é o back-end H**app**y, este back-end será utilizado nos projetos mobile 
 - Multer
 - Yup
 - Sqlite
+- Cors
 
 ## Calendário
 Esta é uma breve descrição do que foi desenvolvido/praticado no dia.
@@ -33,10 +34,11 @@ Esta é uma breve descrição do que foi desenvolvido/praticado no dia.
 - Tratamento de erros;
 - Validação de dados com Yup
 - [X] **Dia 3**:
-- [Continuação do front-end](https://github.com/saleszera/happy-web);
+- [Continuação/fim do front-end](https://github.com/saleszera/happy-web);
 - [X] **Dia 4**:
 - [Inicio mobile](https://github.com/saleszera/happy-mobile)
-- [ ] Dia 5:
+- [ ] **Dia 5**:
+- [Continuação/fim do mobile](https://github.com/saleszera/happy-mobile);
 
 ## 💥️ Bonus
 Estas são as funcionalidades que adicionei ao projeto até o momento.
